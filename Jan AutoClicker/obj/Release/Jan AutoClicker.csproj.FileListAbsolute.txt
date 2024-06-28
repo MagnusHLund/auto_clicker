@@ -1,0 +1,14 @@
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\bin\Release\Jan AutoClicker.exe.config
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\bin\Release\Jan AutoClicker.exe.manifest
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\bin\Release\Jan AutoClicker.application
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\bin\Release\Jan AutoClicker.exe
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\bin\Release\Jan AutoClicker.pdb
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\bin\Release\WindowsInput.dll
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\bin\Release\WindowsInput.xml
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\obj\Release\Jan AutoClicker.csproj.AssemblyReference.cache
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\obj\Release\Jan AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\obj\Release\Jan AutoClicker.exe.manifest
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\obj\Release\Jan AutoClicker.application
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\obj\Release\Jan AutoClicker.csproj.CopyComplete
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\obj\Release\Jan AutoClicker.exe
+C:\Users\magnu\source\repos\Jan AutoClicker\Jan AutoClicker\obj\Release\Jan AutoClicker.pdb
